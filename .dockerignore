@@ -1,0 +1,15 @@
+node_modules
+.next
+.next-e2e
+data
+data-e2e
+public/bg-removal
+test-results
+playwright-report
+blob-report
+lib/generated
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.git

@@ -1,0 +1,99 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../lib/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Unit {
+  px
+  mm
+  cm
+  in
+}
+
+enum AssetKind {
+  image
+  svg
+  font
+  video
+}
+
+// Geometry (width, height) is always pixels at 96 DPI; `unit` only affects display and input.
+model Project {
+  id            String   @id @default(cuid())
+  title         String
+  width         Float
+  height        Float
+  unit          Unit     @default(px)
+  thumbnailPath String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  pages         Page[]
+}
+
+model Page {
+  id            String   @id @default(cuid())
+  projectId     String
+  project       Project  @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  order         Int
+  schemaVersion Int
+  canvasData    Json
+  updatedAt     DateTime @updatedAt
+
+  @@index([projectId, order])
+}
+
+// `path` is relative to DATA_DIR.
+model Asset {
+  id         String    @id @default(cuid())
+  kind       AssetKind
+  path       String
+  mimeType   String
+  fileSize   Int
+  width      Int?
+  height     Int?
+  // Fonts only: the face the file registers as (weight 400 or 700, style normal or italic), read
+  // from the font's own name and OS/2 tables, and the name it was uploaded under.
+  fontFamily String?
+  fontWeight Int?
+  fontStyle  String?
+  fileName   String?
+  // Videos only: the poster frame the browser drew on upload (relative to DATA_DIR) and the length.
+  posterPath String?
+  durationMs Int?
+  // Copies of stock content: "pexels:<id>" or "iconify:<prefix>:<name>", so using it again reuses the copy.
+  sourceKey  String?   @unique
+  createdAt  DateTime  @default(now())
+}
+
+model Template {
+  id            String   @id @default(cuid())
+  /// Stable key of a built-in template, so the seed can update it in place. Null for saved ones.
+  slug          String?  @unique
+  title         String
+  category      String
+  width         Float
+  height        Float
+  unit          Unit     @default(px)
+  tags          String[]
+  thumbnailPath String?
+  // Array of page canvasData objects, in page order, at the current page schemaVersion.
+  pages         Json
+  isBuiltIn     Boolean  @default(false)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @default(now()) @updatedAt
+}
+
+// Colours are "#rrggbb", fonts are family names (built in or uploaded), logos are image or SVG asset ids.
+model BrandKit {
+  id           String   @id @default(cuid())
+  name         String
+  colors       String[] @default([])
+  fonts        String[] @default([])
+  logoAssetIds String[] @default([])
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @default(now()) @updatedAt
+}

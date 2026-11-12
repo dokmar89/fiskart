@@ -1,0 +1,422 @@
+[
+  {
+    "family": "Inter",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Roboto",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Open Sans",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Montserrat",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Lato",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Poppins",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Raleway",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Nunito",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Work Sans",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Source Sans 3",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Rubik",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "DM Sans",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Manrope",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Outfit",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Barlow",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Fira Sans",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Josefin Sans",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Archivo",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Karla",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Quicksand",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Plus Jakarta Sans",
+    "category": "sans-serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Playfair Display",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Merriweather",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Lora",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "PT Serif",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Libre Baskerville",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "EB Garamond",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Cormorant Garamond",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Crimson Pro",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Noto Serif",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Source Serif 4",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "DM Serif Display",
+    "category": "serif",
+    "bold": false,
+    "italic": true
+  },
+  {
+    "family": "Bitter",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Roboto Slab",
+    "category": "serif",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Cinzel",
+    "category": "serif",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Bodoni Moda",
+    "category": "serif",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Oswald",
+    "category": "display",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Bebas Neue",
+    "category": "display",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Anton",
+    "category": "display",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Abril Fatface",
+    "category": "display",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Alfa Slab One",
+    "category": "display",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Lobster",
+    "category": "display",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Righteous",
+    "category": "display",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Archivo Black",
+    "category": "display",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Fredoka",
+    "category": "display",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Comfortaa",
+    "category": "display",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Russo One",
+    "category": "display",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Staatliches",
+    "category": "display",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Fjalla One",
+    "category": "display",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Syne",
+    "category": "display",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Pacifico",
+    "category": "script",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Dancing Script",
+    "category": "script",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Caveat",
+    "category": "script",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Great Vibes",
+    "category": "script",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Allura",
+    "category": "script",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Kaushan Script",
+    "category": "script",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Amatic SC",
+    "category": "script",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Sacramento",
+    "category": "script",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Courgette",
+    "category": "script",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Shadows Into Light",
+    "category": "script",
+    "bold": false,
+    "italic": false
+  },
+  {
+    "family": "Kalam",
+    "category": "script",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Roboto Mono",
+    "category": "monospace",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Source Code Pro",
+    "category": "monospace",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "JetBrains Mono",
+    "category": "monospace",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Space Mono",
+    "category": "monospace",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Fira Code",
+    "category": "monospace",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Inconsolata",
+    "category": "monospace",
+    "bold": true,
+    "italic": false
+  },
+  {
+    "family": "Ubuntu Mono",
+    "category": "monospace",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "IBM Plex Mono",
+    "category": "monospace",
+    "bold": true,
+    "italic": true
+  },
+  {
+    "family": "Noto Sans Mono",
+    "category": "monospace",
+    "bold": true,
+    "italic": false
+  }
+]

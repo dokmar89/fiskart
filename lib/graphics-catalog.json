@@ -1,0 +1,1314 @@
+[
+  {
+    "id": "polygon-3",
+    "name": "Trojúhelník",
+    "category": "Tvary",
+    "tags": [
+      "polygon",
+      "shape",
+      "trojúhelník"
+    ]
+  },
+  {
+    "id": "polygon-4",
+    "name": "Kosočtverec",
+    "category": "Tvary",
+    "tags": [
+      "polygon",
+      "shape",
+      "kosočtverec"
+    ]
+  },
+  {
+    "id": "polygon-5",
+    "name": "Pětiúhelník",
+    "category": "Tvary",
+    "tags": [
+      "polygon",
+      "shape",
+      "pětiúhelník"
+    ]
+  },
+  {
+    "id": "polygon-6",
+    "name": "Šestiúhelník",
+    "category": "Tvary",
+    "tags": [
+      "polygon",
+      "shape",
+      "šestiúhelník"
+    ]
+  },
+  {
+    "id": "polygon-7",
+    "name": "Sedmiúhelník",
+    "category": "Tvary",
+    "tags": [
+      "polygon",
+      "shape",
+      "sedmiúhelník"
+    ]
+  },
+  {
+    "id": "polygon-8",
+    "name": "Osmiúhelník",
+    "category": "Tvary",
+    "tags": [
+      "polygon",
+      "shape",
+      "osmiúhelník"
+    ]
+  },
+  {
+    "id": "polygon-9",
+    "name": "Devítiúhelník",
+    "category": "Tvary",
+    "tags": [
+      "polygon",
+      "shape",
+      "devítiúhelník"
+    ]
+  },
+  {
+    "id": "polygon-10",
+    "name": "Desetiúhelník",
+    "category": "Tvary",
+    "tags": [
+      "polygon",
+      "shape",
+      "desetiúhelník"
+    ]
+  },
+  {
+    "id": "star-4",
+    "name": "4cípá hvězda",
+    "category": "Tvary",
+    "tags": [
+      "star",
+      "shape"
+    ]
+  },
+  {
+    "id": "star-5",
+    "name": "5cípá hvězda",
+    "category": "Tvary",
+    "tags": [
+      "star",
+      "shape"
+    ]
+  },
+  {
+    "id": "star-6",
+    "name": "6cípá hvězda",
+    "category": "Tvary",
+    "tags": [
+      "star",
+      "shape"
+    ]
+  },
+  {
+    "id": "star-7",
+    "name": "7cípá hvězda",
+    "category": "Tvary",
+    "tags": [
+      "star",
+      "shape"
+    ]
+  },
+  {
+    "id": "star-8",
+    "name": "8cípá hvězda",
+    "category": "Tvary",
+    "tags": [
+      "star",
+      "shape"
+    ]
+  },
+  {
+    "id": "star-12",
+    "name": "12cípá hvězda",
+    "category": "Tvary",
+    "tags": [
+      "star",
+      "shape"
+    ]
+  },
+  {
+    "id": "star-soft",
+    "name": "Měkká hvězda",
+    "category": "Tvary",
+    "tags": [
+      "star",
+      "rounded",
+      "shape"
+    ]
+  },
+  {
+    "id": "burst-12",
+    "name": "Výbuch (12)",
+    "category": "Tvary",
+    "tags": [
+      "burst",
+      "sale",
+      "explosion",
+      "shape"
+    ]
+  },
+  {
+    "id": "burst-16",
+    "name": "Výbuch (16)",
+    "category": "Tvary",
+    "tags": [
+      "burst",
+      "sale",
+      "explosion",
+      "shape"
+    ]
+  },
+  {
+    "id": "burst-24",
+    "name": "Výbuch (24)",
+    "category": "Tvary",
+    "tags": [
+      "burst",
+      "sale",
+      "explosion",
+      "shape"
+    ]
+  },
+  {
+    "id": "blob-1",
+    "name": "Skvrna 1",
+    "category": "Tvary",
+    "tags": [
+      "blob",
+      "organic",
+      "abstract",
+      "shape"
+    ]
+  },
+  {
+    "id": "blob-2",
+    "name": "Skvrna 2",
+    "category": "Tvary",
+    "tags": [
+      "blob",
+      "organic",
+      "abstract",
+      "shape"
+    ]
+  },
+  {
+    "id": "blob-3",
+    "name": "Skvrna 3",
+    "category": "Tvary",
+    "tags": [
+      "blob",
+      "organic",
+      "abstract",
+      "shape"
+    ]
+  },
+  {
+    "id": "blob-4",
+    "name": "Skvrna 4",
+    "category": "Tvary",
+    "tags": [
+      "blob",
+      "organic",
+      "abstract",
+      "shape"
+    ]
+  },
+  {
+    "id": "blob-5",
+    "name": "Skvrna 5",
+    "category": "Tvary",
+    "tags": [
+      "blob",
+      "organic",
+      "abstract",
+      "shape"
+    ]
+  },
+  {
+    "id": "blob-6",
+    "name": "Skvrna 6",
+    "category": "Tvary",
+    "tags": [
+      "blob",
+      "organic",
+      "abstract",
+      "shape"
+    ]
+  },
+  {
+    "id": "blob-7",
+    "name": "Skvrna 7",
+    "category": "Tvary",
+    "tags": [
+      "blob",
+      "organic",
+      "abstract",
+      "shape"
+    ]
+  },
+  {
+    "id": "blob-8",
+    "name": "Skvrna 8",
+    "category": "Tvary",
+    "tags": [
+      "blob",
+      "organic",
+      "abstract",
+      "shape"
+    ]
+  },
+  {
+    "id": "blob-9",
+    "name": "Skvrna 9",
+    "category": "Tvary",
+    "tags": [
+      "blob",
+      "organic",
+      "abstract",
+      "shape"
+    ]
+  },
+  {
+    "id": "blob-10",
+    "name": "Skvrna 10",
+    "category": "Tvary",
+    "tags": [
+      "blob",
+      "organic",
+      "abstract",
+      "shape"
+    ]
+  },
+  {
+    "id": "half-circle",
+    "name": "Půlkruh",
+    "category": "Tvary",
+    "tags": [
+      "semicircle",
+      "arch",
+      "shape"
+    ]
+  },
+  {
+    "id": "quarter-circle",
+    "name": "Čtvrtkruh",
+    "category": "Tvary",
+    "tags": [
+      "quarter",
+      "corner",
+      "shape"
+    ]
+  },
+  {
+    "id": "ring",
+    "name": "Prstenec",
+    "category": "Tvary",
+    "tags": [
+      "circle",
+      "donut",
+      "ring",
+      "shape"
+    ]
+  },
+  {
+    "id": "pill",
+    "name": "Pilulka",
+    "category": "Tvary",
+    "tags": [
+      "capsule",
+      "rounded",
+      "shape"
+    ]
+  },
+  {
+    "id": "divider-wave",
+    "name": "Vlnovka",
+    "category": "Čáry",
+    "tags": [
+      "wave",
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-wave-soft",
+    "name": "Mírná vlna",
+    "category": "Čáry",
+    "tags": [
+      "wave",
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-wave-double",
+    "name": "Dvojitá vlna",
+    "category": "Čáry",
+    "tags": [
+      "wave",
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-zigzag",
+    "name": "Klikatka",
+    "category": "Čáry",
+    "tags": [
+      "zigzag",
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-zigzag-fine",
+    "name": "Jemná klikatka",
+    "category": "Čáry",
+    "tags": [
+      "zigzag",
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-dots",
+    "name": "Tečkovaná čára",
+    "category": "Čáry",
+    "tags": [
+      "dots",
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-dots-large",
+    "name": "Velké tečky",
+    "category": "Čáry",
+    "tags": [
+      "dots",
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-dashes",
+    "name": "Čárkovaná čára",
+    "category": "Čáry",
+    "tags": [
+      "dashes",
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-double",
+    "name": "Dvojitá čára",
+    "category": "Čáry",
+    "tags": [
+      "double",
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-diamond",
+    "name": "Čára s kosočtvercem",
+    "category": "Čáry",
+    "tags": [
+      "ornament",
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-circles",
+    "name": "Čára s kroužky na koncích",
+    "category": "Čáry",
+    "tags": [
+      "divider",
+      "line"
+    ]
+  },
+  {
+    "id": "divider-scallop",
+    "name": "Vlnitý okraj",
+    "category": "Čáry",
+    "tags": [
+      "scallop",
+      "edge",
+      "divider"
+    ]
+  },
+  {
+    "id": "badge-circle",
+    "name": "Kruhový odznak",
+    "category": "Odznaky",
+    "tags": [
+      "badge",
+      "circle",
+      "label"
+    ]
+  },
+  {
+    "id": "badge-circle-dots",
+    "name": "Tečkovaný odznak",
+    "category": "Odznaky",
+    "tags": [
+      "badge",
+      "circle",
+      "label"
+    ]
+  },
+  {
+    "id": "seal-16",
+    "name": "Pečeť",
+    "category": "Odznaky",
+    "tags": [
+      "seal",
+      "certificate",
+      "badge"
+    ]
+  },
+  {
+    "id": "seal-24",
+    "name": "Jemná pečeť",
+    "category": "Odznaky",
+    "tags": [
+      "seal",
+      "certificate",
+      "badge"
+    ]
+  },
+  {
+    "id": "ribbon-banner",
+    "name": "Stuha",
+    "category": "Odznaky",
+    "tags": [
+      "ribbon",
+      "banner",
+      "label"
+    ]
+  },
+  {
+    "id": "ribbon-folded",
+    "name": "Přeložená stuha",
+    "category": "Odznaky",
+    "tags": [
+      "ribbon",
+      "banner",
+      "label"
+    ]
+  },
+  {
+    "id": "ribbon-flag",
+    "name": "Vlaječka",
+    "category": "Odznaky",
+    "tags": [
+      "flag",
+      "label",
+      "banner"
+    ]
+  },
+  {
+    "id": "shield",
+    "name": "Štít",
+    "category": "Odznaky",
+    "tags": [
+      "shield",
+      "crest",
+      "badge"
+    ]
+  },
+  {
+    "id": "shield-split",
+    "name": "Dělený štít",
+    "category": "Odznaky",
+    "tags": [
+      "shield",
+      "crest",
+      "badge"
+    ]
+  },
+  {
+    "id": "tag",
+    "name": "Visačka",
+    "category": "Odznaky",
+    "tags": [
+      "tag",
+      "price",
+      "label"
+    ]
+  },
+  {
+    "id": "tag-rounded",
+    "name": "Zaoblená visačka",
+    "category": "Odznaky",
+    "tags": [
+      "tag",
+      "price",
+      "label"
+    ]
+  },
+  {
+    "id": "rosette",
+    "name": "Rozeta",
+    "category": "Odznaky",
+    "tags": [
+      "rosette",
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "id": "label-rounded",
+    "name": "Zaoblený štítek",
+    "category": "Odznaky",
+    "tags": [
+      "label",
+      "button"
+    ]
+  },
+  {
+    "id": "ticket",
+    "name": "Vstupenka",
+    "category": "Odznaky",
+    "tags": [
+      "ticket",
+      "coupon",
+      "label"
+    ]
+  },
+  {
+    "id": "badge-hexagon",
+    "name": "Šestiúhelníkový odznak",
+    "category": "Odznaky",
+    "tags": [
+      "hexagon",
+      "badge"
+    ]
+  },
+  {
+    "id": "badge-burst-label",
+    "name": "Hvězdicový štítek",
+    "category": "Odznaky",
+    "tags": [
+      "burst",
+      "sale",
+      "badge"
+    ]
+  },
+  {
+    "id": "badge-square",
+    "name": "Razítko",
+    "category": "Odznaky",
+    "tags": [
+      "stamp",
+      "badge",
+      "square"
+    ]
+  },
+  {
+    "id": "badge-sale-20",
+    "name": "Sleva 20 %",
+    "category": "Odznaky",
+    "tags": [
+      "sale",
+      "discount",
+      "20%",
+      "badge"
+    ]
+  },
+  {
+    "id": "badge-verified",
+    "name": "Ověřeno",
+    "category": "Odznaky",
+    "tags": [
+      "verified",
+      "check",
+      "badge"
+    ]
+  },
+  {
+    "id": "social-instagram",
+    "name": "Instagram",
+    "category": "Sociální ikony",
+    "tags": [
+      "instagram",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "social-facebook",
+    "name": "Facebook",
+    "category": "Sociální ikony",
+    "tags": [
+      "facebook",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "social-tiktok",
+    "name": "TikTok",
+    "category": "Sociální ikony",
+    "tags": [
+      "tiktok",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "social-youtube",
+    "name": "YouTube",
+    "category": "Sociální ikony",
+    "tags": [
+      "youtube",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "social-linkedin",
+    "name": "LinkedIn",
+    "category": "Sociální ikony",
+    "tags": [
+      "linkedin",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "social-x",
+    "name": "X",
+    "category": "Sociální ikony",
+    "tags": [
+      "x",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "social-whatsapp",
+    "name": "WhatsApp",
+    "category": "Sociální ikony",
+    "tags": [
+      "whatsapp",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "social-pinterest",
+    "name": "Pinterest",
+    "category": "Sociální ikony",
+    "tags": [
+      "pinterest",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "social-mail",
+    "name": "E-mail",
+    "category": "Sociální ikony",
+    "tags": [
+      "mail",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "social-globe",
+    "name": "Globus",
+    "category": "Sociální ikony",
+    "tags": [
+      "globe",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "social-phone",
+    "name": "Telefon",
+    "category": "Sociální ikony",
+    "tags": [
+      "phone",
+      "social",
+      "icon"
+    ]
+  },
+  {
+    "id": "arrow-right",
+    "name": "Šipka",
+    "category": "Šipky",
+    "tags": [
+      "arrow",
+      "right",
+      "direction"
+    ]
+  },
+  {
+    "id": "arrow-double",
+    "name": "Dvojitá šipka",
+    "category": "Šipky",
+    "tags": [
+      "arrow",
+      "both",
+      "direction"
+    ]
+  },
+  {
+    "id": "arrow-chevron",
+    "name": "Klínová šipka",
+    "category": "Šipky",
+    "tags": [
+      "chevron",
+      "next",
+      "direction"
+    ]
+  },
+  {
+    "id": "arrow-chevrons",
+    "name": "Dvojitá klínová šipka",
+    "category": "Šipky",
+    "tags": [
+      "chevron",
+      "fast",
+      "direction"
+    ]
+  },
+  {
+    "id": "arrow-curved",
+    "name": "Zahnutá šipka",
+    "category": "Šipky",
+    "tags": [
+      "arrow",
+      "curve",
+      "direction"
+    ]
+  },
+  {
+    "id": "arrow-curved-down",
+    "name": "Šipka dolů",
+    "category": "Šipky",
+    "tags": [
+      "arrow",
+      "curve",
+      "down"
+    ]
+  },
+  {
+    "id": "arrow-circular",
+    "name": "Kruhová šipka",
+    "category": "Šipky",
+    "tags": [
+      "refresh",
+      "cycle",
+      "arrow"
+    ]
+  },
+  {
+    "id": "arrow-in-circle",
+    "name": "Šipka v kruhu",
+    "category": "Šipky",
+    "tags": [
+      "arrow",
+      "button",
+      "next"
+    ]
+  },
+  {
+    "id": "arrow-bent",
+    "name": "Lomená šipka",
+    "category": "Šipky",
+    "tags": [
+      "arrow",
+      "turn",
+      "direction"
+    ]
+  },
+  {
+    "id": "arrow-u-turn",
+    "name": "Šipka zpět",
+    "category": "Šipky",
+    "tags": [
+      "arrow",
+      "back",
+      "return"
+    ]
+  },
+  {
+    "id": "arrow-thin",
+    "name": "Tenká šipka",
+    "category": "Šipky",
+    "tags": [
+      "arrow",
+      "pointer",
+      "line"
+    ]
+  },
+  {
+    "id": "arrow-hand-drawn",
+    "name": "Ručně kreslená šipka",
+    "category": "Šipky",
+    "tags": [
+      "arrow",
+      "doodle",
+      "hand drawn"
+    ]
+  },
+  {
+    "id": "speech-round",
+    "name": "Bublina",
+    "category": "Bubliny",
+    "tags": [
+      "speech",
+      "bubble",
+      "talk",
+      "quote"
+    ]
+  },
+  {
+    "id": "speech-rect",
+    "name": "Hranatá bublina",
+    "category": "Bubliny",
+    "tags": [
+      "speech",
+      "bubble",
+      "talk"
+    ]
+  },
+  {
+    "id": "thought",
+    "name": "Myšlenková bublina",
+    "category": "Bubliny",
+    "tags": [
+      "thought",
+      "think",
+      "cloud",
+      "bubble"
+    ]
+  },
+  {
+    "id": "callout-box",
+    "name": "Popisek",
+    "category": "Bubliny",
+    "tags": [
+      "callout",
+      "note",
+      "box"
+    ]
+  },
+  {
+    "id": "shout",
+    "name": "Výkřik",
+    "category": "Bubliny",
+    "tags": [
+      "shout",
+      "exclamation",
+      "burst",
+      "comic"
+    ]
+  },
+  {
+    "id": "speech-pair",
+    "name": "Dvě bubliny",
+    "category": "Bubliny",
+    "tags": [
+      "chat",
+      "conversation",
+      "speech"
+    ]
+  },
+  {
+    "id": "sun",
+    "name": "Slunce",
+    "category": "Dekorace",
+    "tags": [
+      "sun",
+      "weather",
+      "summer"
+    ]
+  },
+  {
+    "id": "moon",
+    "name": "Půlměsíc",
+    "category": "Dekorace",
+    "tags": [
+      "moon",
+      "night",
+      "sky"
+    ]
+  },
+  {
+    "id": "cloud",
+    "name": "Mrak",
+    "category": "Dekorace",
+    "tags": [
+      "cloud",
+      "weather",
+      "sky"
+    ]
+  },
+  {
+    "id": "cloud-rain",
+    "name": "Dešťový mrak",
+    "category": "Dekorace",
+    "tags": [
+      "rain",
+      "cloud",
+      "weather"
+    ]
+  },
+  {
+    "id": "drop",
+    "name": "Kapka",
+    "category": "Dekorace",
+    "tags": [
+      "water",
+      "drop",
+      "rain"
+    ]
+  },
+  {
+    "id": "leaf",
+    "name": "List",
+    "category": "Dekorace",
+    "tags": [
+      "leaf",
+      "nature",
+      "plant"
+    ]
+  },
+  {
+    "id": "leaf-round",
+    "name": "Kulatý list",
+    "category": "Dekorace",
+    "tags": [
+      "leaf",
+      "nature",
+      "plant"
+    ]
+  },
+  {
+    "id": "leaves-sprig",
+    "name": "Větvička",
+    "category": "Dekorace",
+    "tags": [
+      "leaves",
+      "branch",
+      "nature"
+    ]
+  },
+  {
+    "id": "flower-5",
+    "name": "Květina (5 okvětních lístků)",
+    "category": "Dekorace",
+    "tags": [
+      "flower",
+      "nature",
+      "spring"
+    ]
+  },
+  {
+    "id": "flower-6",
+    "name": "Květina (6 okvětních lístků)",
+    "category": "Dekorace",
+    "tags": [
+      "flower",
+      "nature",
+      "spring"
+    ]
+  },
+  {
+    "id": "flower-8",
+    "name": "Květina (8 okvětních lístků)",
+    "category": "Dekorace",
+    "tags": [
+      "flower",
+      "nature",
+      "spring"
+    ]
+  },
+  {
+    "id": "heart",
+    "name": "Srdce",
+    "category": "Dekorace",
+    "tags": [
+      "heart",
+      "love",
+      "valentine"
+    ]
+  },
+  {
+    "id": "heart-outline",
+    "name": "Obrys srdce",
+    "category": "Dekorace",
+    "tags": [
+      "heart",
+      "love",
+      "outline"
+    ]
+  },
+  {
+    "id": "sparkle-1",
+    "name": "Jiskra 1",
+    "category": "Dekorace",
+    "tags": [
+      "sparkle",
+      "shine",
+      "star",
+      "magic"
+    ]
+  },
+  {
+    "id": "sparkle-2",
+    "name": "Jiskra 2",
+    "category": "Dekorace",
+    "tags": [
+      "sparkle",
+      "shine",
+      "star",
+      "magic"
+    ]
+  },
+  {
+    "id": "sparkle-3",
+    "name": "Jiskra 3",
+    "category": "Dekorace",
+    "tags": [
+      "sparkle",
+      "shine",
+      "star",
+      "magic"
+    ]
+  },
+  {
+    "id": "confetti",
+    "name": "Konfety",
+    "category": "Dekorace",
+    "tags": [
+      "confetti",
+      "party",
+      "celebration"
+    ]
+  },
+  {
+    "id": "mountains",
+    "name": "Hory",
+    "category": "Dekorace",
+    "tags": [
+      "mountain",
+      "landscape",
+      "nature"
+    ]
+  },
+  {
+    "id": "tree",
+    "name": "Strom",
+    "category": "Dekorace",
+    "tags": [
+      "tree",
+      "nature",
+      "forest"
+    ]
+  },
+  {
+    "id": "snowflake",
+    "name": "Vločka",
+    "category": "Dekorace",
+    "tags": [
+      "snow",
+      "winter",
+      "christmas"
+    ]
+  },
+  {
+    "id": "lightning",
+    "name": "Blesk",
+    "category": "Dekorace",
+    "tags": [
+      "lightning",
+      "energy",
+      "bolt"
+    ]
+  },
+  {
+    "id": "planet",
+    "name": "Planeta",
+    "category": "Dekorace",
+    "tags": [
+      "planet",
+      "space",
+      "saturn"
+    ]
+  },
+  {
+    "id": "corner-bracket",
+    "name": "Rohové závorky",
+    "category": "Rámečky",
+    "tags": [
+      "corner",
+      "frame",
+      "border"
+    ]
+  },
+  {
+    "id": "corner-ornament",
+    "name": "Rohový ornament",
+    "category": "Rámečky",
+    "tags": [
+      "corner",
+      "ornament",
+      "decoration"
+    ]
+  },
+  {
+    "id": "frame-rounded",
+    "name": "Zaoblený rámeček",
+    "category": "Rámečky",
+    "tags": [
+      "frame",
+      "border",
+      "outline"
+    ]
+  },
+  {
+    "id": "frame-double",
+    "name": "Dvojitý rámeček",
+    "category": "Rámečky",
+    "tags": [
+      "frame",
+      "border",
+      "outline"
+    ]
+  },
+  {
+    "id": "frame-dotted-circle",
+    "name": "Tečkovaný kruh",
+    "category": "Rámečky",
+    "tags": [
+      "circle",
+      "frame",
+      "dots"
+    ]
+  },
+  {
+    "id": "frame-circle-outline",
+    "name": "Obrys kruhu",
+    "category": "Rámečky",
+    "tags": [
+      "circle",
+      "frame",
+      "outline"
+    ]
+  },
+  {
+    "id": "laurel",
+    "name": "Vavřín",
+    "category": "Rámečky",
+    "tags": [
+      "laurel",
+      "award",
+      "wreath"
+    ]
+  },
+  {
+    "id": "frame-polaroid",
+    "name": "Fotorámeček",
+    "category": "Rámečky",
+    "tags": [
+      "photo",
+      "polaroid",
+      "frame"
+    ]
+  },
+  {
+    "id": "dot-grid",
+    "name": "Tečková mřížka",
+    "category": "Vzory",
+    "tags": [
+      "dots",
+      "grid",
+      "pattern"
+    ]
+  },
+  {
+    "id": "halftone",
+    "name": "Rastr",
+    "category": "Vzory",
+    "tags": [
+      "halftone",
+      "dots",
+      "pattern"
+    ]
+  },
+  {
+    "id": "stripes",
+    "name": "Pruhy",
+    "category": "Vzory",
+    "tags": [
+      "stripes",
+      "lines",
+      "pattern"
+    ]
+  },
+  {
+    "id": "checker",
+    "name": "Šachovnice",
+    "category": "Vzory",
+    "tags": [
+      "checker",
+      "squares",
+      "pattern"
+    ]
+  },
+  {
+    "id": "plus-grid",
+    "name": "Plusy",
+    "category": "Vzory",
+    "tags": [
+      "plus",
+      "grid",
+      "pattern"
+    ]
+  },
+  {
+    "id": "circles-cluster",
+    "name": "Shluk kruhů",
+    "category": "Vzory",
+    "tags": [
+      "circles",
+      "bubbles",
+      "abstract"
+    ]
+  },
+  {
+    "id": "squiggle",
+    "name": "Čmáranice",
+    "category": "Vzory",
+    "tags": [
+      "squiggle",
+      "doodle",
+      "abstract"
+    ]
+  },
+  {
+    "id": "rings-concentric",
+    "name": "Kruhy",
+    "category": "Vzory",
+    "tags": [
+      "rings",
+      "circles",
+      "abstract"
+    ]
+  }
+]
